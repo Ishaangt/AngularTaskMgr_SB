@@ -1,34 +1,25 @@
-package com.atc.model;
+package com.atc.dto;
 
-import java.io.Serializable;
 import java.util.Date;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
 import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Size;
 
-/**
- * @author Ishaan.Gupta1
- *
- */
-@Entity
-@Table(name="PROJECTS")
-public class Projects implements Serializable {
-
-	private static final long serialVersionUID = -2633696164650618942L;
-
+public class ProjectsDTO {
+	
 	@Id
-	@Column(name="PROJECT_ID")
+	@NotBlank
 	private Integer projectId;
 	
-	@Column(name="PROJECT_NAME")
+	@NotBlank
+	@Size(max = 255)
 	private String projectName;
 	
-	@Column(name="DATE_OF_START")
+	@NotBlank
 	private Date dateOfStart;
 	
-	@Column(name="TEAM_SIZE")
+	@NotBlank
 	private Integer teamSize;
 
 	/**
@@ -92,7 +83,6 @@ public class Projects implements Serializable {
 		return "Projects [projectId=" + projectId + ", projectName=" + projectName + ", dateOfStart=" + dateOfStart
 				+ ", teamSize=" + teamSize + "]";
 	}
-	
 	
 
 }

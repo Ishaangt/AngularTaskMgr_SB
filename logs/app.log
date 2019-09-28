@@ -1,0 +1,98 @@
+2019-09-27 00:12:37,653 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 34900 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 00:12:37,665 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 00:12:37,667 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 00:13:34,034 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 9620 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 00:13:34,046 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 00:13:34,046 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 12:21:27,553 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 16992 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 12:21:27,559 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 12:21:27,560 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 12:22:41,970 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 29220 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 12:22:41,977 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 12:22:41,977 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 12:22:52,575 INFO c.a.AngularTaskMgrApplication [main] Started AngularTaskMgrApplication in 10.879 seconds (JVM running for 12.478)
+2019-09-27 12:32:13,122 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 20072 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 12:32:13,127 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 12:32:13,127 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 12:32:25,542 INFO c.a.AngularTaskMgrApplication [main] Started AngularTaskMgrApplication in 12.721 seconds (JVM running for 15.628)
+2019-09-27 12:32:58,613 INFO c.a.c.CommonController [http-nio-1542-exec-2] GET::Projects
+2019-09-27 12:34:20,357 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 25060 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 12:34:20,364 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 12:34:20,364 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 12:34:43,025 INFO c.a.AngularTaskMgrApplication [main] Started AngularTaskMgrApplication in 23.0 seconds (JVM running for 24.852)
+2019-09-27 12:34:53,521 INFO c.a.c.CommonController [http-nio-1542-exec-1] GET::Projects
+2019-09-27 12:41:29,415 INFO c.a.c.CommonController [http-nio-1542-exec-4] GET::Projects
+2019-09-27 12:44:49,745 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 17072 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 12:44:49,752 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 12:44:49,752 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 12:45:55,062 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 15256 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 12:45:55,068 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 12:45:55,068 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 12:48:00,826 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 9956 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 12:48:00,837 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 12:48:00,838 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 12:48:09,805 INFO c.a.AngularTaskMgrApplication [main] Started AngularTaskMgrApplication in 9.447 seconds (JVM running for 11.325)
+2019-09-27 12:48:11,471 INFO c.a.c.CommonController [http-nio-1542-exec-2] GET::Projects
+2019-09-27 12:55:10,047 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 24544 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 12:55:10,054 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 12:55:10,054 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 12:55:17,860 INFO c.a.AngularTaskMgrApplication [main] Started AngularTaskMgrApplication in 8.157 seconds (JVM running for 10.06)
+2019-09-27 12:55:18,716 INFO c.a.c.CommonController [http-nio-1542-exec-2] GET::Projects
+2019-09-27 12:57:22,338 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 22468 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 12:57:22,344 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 12:57:22,345 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 12:57:27,601 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 8128 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 12:57:27,608 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 12:57:27,608 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 12:57:34,833 INFO c.a.AngularTaskMgrApplication [main] Started AngularTaskMgrApplication in 7.518 seconds (JVM running for 9.111)
+2019-09-27 12:57:40,631 INFO c.a.c.CommonController [http-nio-1542-exec-1] GET::Projects
+2019-09-27 13:03:10,128 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 39284 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 13:03:10,135 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 13:03:10,135 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 13:27:11,936 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 17528 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 13:27:11,942 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 13:27:11,942 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 13:27:20,022 INFO c.a.AngularTaskMgrApplication [main] Started AngularTaskMgrApplication in 8.365 seconds (JVM running for 10.65)
+2019-09-27 13:27:20,467 INFO c.a.c.CommonController [http-nio-1542-exec-1] GET::Projects
+2019-09-27 13:28:55,467 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 23304 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 13:28:55,474 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 13:28:55,474 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 13:30:55,479 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 38000 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 13:30:55,486 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 13:30:55,487 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 13:31:02,828 INFO c.a.AngularTaskMgrApplication [main] Started AngularTaskMgrApplication in 7.656 seconds (JVM running for 9.417)
+2019-09-27 13:31:11,075 INFO c.a.c.CommonController [http-nio-1542-exec-1] GET::Projects
+2019-09-27 14:00:01,612 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 24216 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 14:00:01,619 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 14:00:01,620 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 14:00:10,502 INFO c.a.AngularTaskMgrApplication [main] Started AngularTaskMgrApplication in 9.417 seconds (JVM running for 11.696)
+2019-09-27 14:00:13,188 INFO c.a.c.CommonController [http-nio-1542-exec-2] GET::Projects
+2019-09-27 14:01:16,632 INFO c.a.c.CommonController [http-nio-1542-exec-4] GET::Projects
+2019-09-27 14:01:29,963 INFO c.a.c.CommonController [http-nio-1542-exec-6] GET::Projects
+2019-09-27 14:04:59,275 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 10128 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 14:04:59,284 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 14:04:59,284 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 14:05:09,002 INFO c.a.AngularTaskMgrApplication [main] Started AngularTaskMgrApplication in 10.083 seconds (JVM running for 12.353)
+2019-09-27 14:05:10,132 INFO c.a.c.CommonController [http-nio-1542-exec-1] GET::Projects
+2019-09-27 15:05:02,811 INFO c.a.c.CommonController [http-nio-1542-exec-4] GET::Projects
+2019-09-27 17:04:50,604 INFO c.a.c.CommonController [http-nio-1542-exec-5] GET::Projects
+2019-09-27 17:13:16,808 INFO c.a.c.CommonController [http-nio-1542-exec-8] GET::Projects
+2019-09-27 17:14:54,361 INFO c.a.c.CommonController [http-nio-1542-exec-10] GET::Projects
+2019-09-27 17:27:01,749 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 25104 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 17:27:01,756 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 17:27:01,757 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 17:27:12,572 INFO c.a.AngularTaskMgrApplication [main] Started AngularTaskMgrApplication in 11.159 seconds (JVM running for 14.074)
+2019-09-27 17:27:21,347 INFO c.a.c.CommonController [http-nio-1542-exec-3] GET::Projects
+2019-09-27 18:12:12,701 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 21284 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 18:12:12,711 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 18:12:12,712 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 18:12:21,977 INFO c.a.AngularTaskMgrApplication [main] Started AngularTaskMgrApplication in 9.632 seconds (JVM running for 11.7)
+2019-09-27 18:12:22,274 INFO c.a.c.CommonController [http-nio-1542-exec-1] GET::Projects
+2019-09-27 18:22:04,794 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 7140 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 18:22:04,803 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 18:22:04,804 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
+2019-09-27 18:22:13,508 INFO c.a.AngularTaskMgrApplication [main] Started AngularTaskMgrApplication in 9.125 seconds (JVM running for 11.342)
+2019-09-27 21:08:45,997 INFO c.a.c.CommonController [http-nio-1542-exec-1] GET::Projects
+2019-09-27 21:10:16,348 INFO c.a.AngularTaskMgrApplication [main] Starting AngularTaskMgrApplication on LAP-IGUPTA2 with PID 13656 (C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr\target\classes started by Ishaan.Gupta1 in C:\Users\ishaan.gupta1\workspace-sts4\AngularTaskMgr)
+2019-09-27 21:10:16,358 DEBUG c.a.AngularTaskMgrApplication [main] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-27 21:10:16,359 INFO c.a.AngularTaskMgrApplication [main] No active profile set, falling back to default profiles: default
