@@ -98,10 +98,6 @@ public class Regions implements Serializable {
 		return serialVersionUID;
 	}
 
-	@Override
-	public String toString() {
-		return "Regions [id=" + id + ", members=" + members + ", region=" + region + "]";
-	}
-
+	
 	
 }
