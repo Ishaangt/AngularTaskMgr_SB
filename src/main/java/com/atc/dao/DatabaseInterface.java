@@ -4,6 +4,7 @@ import java.util.List;
 
 import com.atc.model.Projects;
 import com.atc.model.Regions;
+import com.atc.model.TeamMembersSummary;
 
 public interface DatabaseInterface {
 
@@ -16,5 +17,7 @@ public interface DatabaseInterface {
 	public void deleteProject(Integer id) throws Exception;
 	
 	public List<Regions> getAllTeamMembers() throws Exception; 
+	
+	public List<TeamMembersSummary> getAllTeamMembersSummary() throws Exception;
 
 }

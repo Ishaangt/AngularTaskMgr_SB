@@ -43,6 +43,7 @@ public class CommonController {
 	private static final Logger logger = LogManager.getLogger(CommonController.class);
 	
 	@GetMapping("/projects")
+	@ResponseBody
 	public List<ProjectsDTO> getAllProjects() throws Exception {
 		logger.info("GET::Projects");
 		List<ProjectsDTO> response = prjsrv.getAllProjects();
@@ -50,6 +51,7 @@ public class CommonController {
 	}
 	
 	@GetMapping("/projects/{id}")
+	@ResponseBody
 	public ProjectsDTO getProject(@PathVariable("id")Integer id) throws Exception {
 		logger.info("GET::Project");
 		return null;
@@ -79,6 +81,7 @@ public class CommonController {
 	}
 	
 	@GetMapping("/team/members")
+	@ResponseBody
 	public List<TeamMembersDTO> getAllTeamMembers() throws Exception {
 		logger.info("GET::Projects");
 		List<TeamMembersDTO> response = prjsrv.getAllTeamMembers();
@@ -89,31 +92,36 @@ public class CommonController {
 	@ResponseBody
 	public List<TeamMembersSummaryDTO> getAllTeamMembersSummary() throws Exception {
 		logger.info("GET::Projects");
-		
-		List<TeamMembersSummaryDTO> memList = new ArrayList<TeamMembersSummaryDTO>();
-		TeamMembersSummaryDTO mem = new TeamMembersSummaryDTO();
-		
-		mem.setRegion("East");
-		mem.setTeamMemberCount(19);
-		mem.setTemporaryUnavailableMembers(4);
-		memList.add(mem);
-		
-		mem.setRegion("West");
-		mem.setTeamMemberCount(14);
-		mem.setTemporaryUnavailableMembers(7);
-		memList.add(mem);
-		
-		mem.setRegion("South");
-		mem.setTeamMemberCount(26);
-		mem.setTemporaryUnavailableMembers(1);
-		memList.add(mem);
-		
-		mem.setRegion("North");
-		mem.setTeamMemberCount(11);
-		mem.setTemporaryUnavailableMembers(0);
-		memList.add(mem);
-		
-		return memList; 
+		List<TeamMembersSummaryDTO> response = prjsrv.getAllTeamMembersSummary();
+//		
+//		
+//		List<TeamMembersSummaryDTO> memList = new ArrayList<TeamMembersSummaryDTO>();
+//		TeamMembersSummaryDTO mem = new TeamMembersSummaryDTO();
+//		
+//		mem.setRegion("East");
+//		mem.setTeamMemberCount(19);
+//		mem.setTemporaryUnavailableMembers(4);
+//		memList.add(mem);
+//		
+//		mem = new TeamMembersSummaryDTO();
+//		mem.setRegion("West");
+//		mem.setTeamMemberCount(14);
+//		mem.setTemporaryUnavailableMembers(7);
+//		memList.add(mem);
+//		
+//		mem = new TeamMembersSummaryDTO();
+//		mem.setRegion("South");
+//		mem.setTeamMemberCount(26);
+//		mem.setTemporaryUnavailableMembers(1);
+//		memList.add(mem);
+//		
+//		mem = new TeamMembersSummaryDTO();
+//		mem.setRegion("North");
+//		mem.setTeamMemberCount(11);
+//		mem.setTemporaryUnavailableMembers(0);
+//		memList.add(mem);
+//		System.out.println(memList.toString());
+		return response; 
 	}
 	 
 

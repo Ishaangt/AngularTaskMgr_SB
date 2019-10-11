@@ -3,6 +3,7 @@ package com.atc.model;
 import java.io.Serializable;
 import java.util.List;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
@@ -26,7 +27,7 @@ public class Regions implements Serializable {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Integer id;
 	
-	@OneToMany(fetch = FetchType.LAZY, mappedBy = "region")
+	@OneToMany(fetch = FetchType.EAGER, mappedBy = "region", cascade = CascadeType.ALL)
     private List<Members> members;
 	
 	@Column(name = "REGION", length = 100)

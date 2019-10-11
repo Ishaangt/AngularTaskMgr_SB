@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 
 import com.atc.dto.ProjectsDTO;
 import com.atc.dto.TeamMembersDTO;
+import com.atc.dto.TeamMembersSummaryDTO;
 
 @Component
 public interface ProjectService {
@@ -19,4 +20,6 @@ public interface ProjectService {
 	public void deleteProject(Integer id) throws Exception;
 
 	public List<TeamMembersDTO> getAllTeamMembers() throws Exception;
+	
+	public List<TeamMembersSummaryDTO> getAllTeamMembersSummary() throws Exception;
 }
